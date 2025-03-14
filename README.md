@@ -64,6 +64,8 @@ Make sure your system fulfills the requirements for UiPath software as outlined 
 2. Link your local machine to the cloud for workflow deployment.
 
 ---
+## Demo
+[![Watch the video](https://youtu.be/6FqmYb5xFcM)
 
 ## Usage
 
