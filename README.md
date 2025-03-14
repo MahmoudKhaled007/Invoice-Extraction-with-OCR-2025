@@ -39,8 +39,6 @@ For a demonstration of the solution, check the video below:
 
 - [Watch the RPA Invoice Extraction Demo](https://youtu.be/6FqmYb5xFcM)
 
-> **Important:** As of 12 April 2024, the server for rpachallenge.com is not functioning properly and will always show a failure status, regardless of the correctness of the uploaded file. You may ignore the scoring provided by the challenge website.
-
 ---
 
 ## Installation
