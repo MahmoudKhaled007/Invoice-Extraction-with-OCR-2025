@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main_modern.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InvData&Sequence_1",
+        "varInvNum&Sequence_1",
+        "varInvDateStr&Sequence_1",
+        "varCustomer&Sequence_1",
+        "varInvDate&Sequence_1",
+        "varTotalAmtStr&Sequence_1",
+        "varTotalAmt&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
