@@ -37,7 +37,7 @@ Ensure your output CSV file matches the format shown in the sample. Invoices wil
 
 For a demonstration of the solution, check the video below:
 
-- [invoice-extraction-OCR.mp4](invoice-extraction-OCR.mp4)
+- [Watch the RPA Invoice Extraction Demo](https://youtu.be/6FqmYb5xFcM)
 
 > **Important:** As of 12 April 2024, the server for rpachallenge.com is not functioning properly and will always show a failure status, regardless of the correctness of the uploaded file. You may ignore the scoring provided by the challenge website.
 
@@ -64,9 +64,6 @@ Make sure your system fulfills the requirements for UiPath software as outlined 
 2. Link your local machine to the cloud for workflow deployment.
 
 ---
-## Demo
-[![Watch the video](https://youtu.be/6FqmYb5xFcM)
-
 ## Usage
 
 To execute the RPA workflow locally, follow these steps:
